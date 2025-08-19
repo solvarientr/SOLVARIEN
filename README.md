@@ -36,11 +36,13 @@
 ---
 
 ## 🌐 Connect with Me  
+## 🌐 Bana Ulaşın  
+
 <p align="center">
-   <a href="https://github.com/solvarien"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
-   <a href="https://https://www.linkedin.com/in/solvarien-tr-8898a737b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="mailto:solvarientr@gmail.com"><img src="https://img.shields.io/badge/Email-8B0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:solvarientr@gmail.com"><img src="https://img.shields.io/badge/Mail-FFD700?style=for-the-badge&logo=gmail&logoColor=000000" /></a>
+  <a href="https://www.linkedin.com/in/solvarien-tr-8898a737b/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700" /></a>
 </p>
+
 
 ---
 <p align="center">✨ Crafted with passion, power, and prestige ✨</p>
